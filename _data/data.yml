@@ -1,0 +1,334 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+<<<<<<< HEAD
+#show project ,publication on mainbar
+mainbar:
+  project: False
+  publication: false
+
+sidebar:
+    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+
+    # Profile information
+    name: Mohd Noor <br> (ノール)
+    tagline: Software Engineer<br>(Japanese Speaker)
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: mk.mohdnoor@gmail.com
+    phone: +6011 6961 6961
+    website: nooru.me #do not add http://
+    linkedin: rippananooru
+    #xing: alandoe
+    #github: sharu725
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
+    #twitter: '@webjeda'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
+    #pdf: http://www.africau.edu/images/default/sample.pdf
+
+    languages:
+      - idiom: Malay
+        level: Native
+
+      - idiom: English
+        level: Business
+
+      - idiom: Japanese
+        level: Business
+
+    interests:
+      - item: Computer
+        link:
+
+      - item: Superbike
+        link:
+
+      - item: Snowboarding
+        link:
+
+career-profile:
+    title: Profile
+    summary: |
+      27 years old, married, Malaysian
+
+      I'm an analytical-minded person that make me a quiet person 
+      because I like to get to the bottom of things along with my curiosity in understanding things. 
+      I'm highly adaptable that make me resourceful and independent.
+
+      [INTJ PERSONALITY (“THE ARCHITECT”)](https://www.16personalities.com/intj-personality) 
+      Elon Musk has the same personality as me.     
+education:
+    - degree: Degree in Computer Science (Major in networking)
+      university: Tokyo University of Technology
+      time: 2015 - 2017
+      details: |
+          - Bullet point
+          - Bullet point
+    - degree: Bachelor in Electric and Electronics Engineering (Hons.)
+      university: University Kuala Lumpur
+      time: 2012 - 2014
+=======
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Mohd Noor (ノール)
+    tagline: Full Stack Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    website: blog.webjeda.com #do not add http://
+    linkedin: alandoe
+    xing: alandoe
+    github: sharu725
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: http://www.africau.edu/images/default/sample.pdf
+
+    languages:
+      - idiom: English
+        level: Native
+
+      - idiom: French
+        level: Professional
+
+      - idiom: Spanish
+        level: Professional
+
+    interests:
+      - item: Climbing
+        link:
+
+      - item: Snowboarding
+        link:
+
+      - item: Cooking
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
+education:
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
+>>>>>>> 2a97eb695b3488fa0590700d518c14fe0b16c26a
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+experiences:
+<<<<<<< HEAD
+    - role: Japanese Speaker Software Engineer (Permanent)
+      time: January 2020 - Present
+      company: KLCV Malaysia Sdn Bhd, Petaling Jaya, Selangor
+      details: |
+        Customization and creation of new functions on an in-house build system 
+        called Creative Vision.<br>
+        Languages:
+          - C#, .NET, Oracle DB.
+    - role: IT Executive, Project Leader (Permanent)
+      time: July 2018 - December 2019
+      company: Taisei Lamick Malaysia Sdn Bhd, Kajang, Selangor
+      details: |
+        Overall internal IT support. Handle all IT related activities to ensure IT operation run smoothly. 
+        Perform daily support/operation on installation, maintenance, 
+        troubleshooting of hardware/software, system application, PC, Servers, network infrastructure etc. 
+        Dealing and coordinating with IT vendors. Provide Training to end user. 
+
+        Create a few application using Microsoft’s PowerApps such as room booking, IT equipment booking, 
+        car reservation system, inventory management system and last but not least ticket system using 
+        SharePoint as the database.
+    - role: Technical Helpdesk Associate (Permanent)
+      time: April 2017 - July 2018
+      company: Emerio (Malaysia) Sdn Bhd, Cyberjaya, Selangor
+      details: |
+        Troubleshoot research, diagnose, document, and resolve technical issues surrounding internal IT, 
+        Applications, email, other special applications, Internet connections, 
+        and hardware/peripheral equipment via telephone or remote desktop. Document, track, resolve,
+        and report on problems and work orders using ticketing system.
+    - role: Part-time Crew
+      time: February 2021 - April 2012
+      company: Pizza Hut Malaysia, Batu Pahat, Johor
+      details: |
+        Pizza Hut team members mostly serve customers or prepare food in kitchen. 
+        Customer Service duties include taking orders, answering questions, 
+        and ringing out customers on the cash register. Kitchen duties include preparing dough, 
+        portioning toppings, and cooking pizzas. All team members must maintain a clean work environment. 
+        Additionally, team members must follow all health and safety rules outlined by Pizza Hut. 
+        Team members should possess strong communication and problem solving skills.
+=======
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+>>>>>>> 2a97eb695b3488fa0590700d518c14fe0b16c26a
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+<<<<<<< HEAD
+      - name: Computer Hardware
+        level: 100%
+
+      - name: Computer Troubleshooting
+        level: 100%
+
+      - name: Admin/Maintenance
+        level: 98%
+
+      - name: Computer Networking
+        level: 80%
+
+      - name: HTML5 & CSS
+        level: 60%
+
+      - name: C#
+        level: 60%
+
+      - name: Oracle DB, SQL
+        level: 60%
+
+footer: >
+#Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+=======
+      - name: Python & Django
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+>>>>>>> 2a97eb695b3488fa0590700d518c14fe0b16c26a

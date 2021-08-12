@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+
+{% include career-profile.html %}
+
+{% unless site.data.data.sidebar.education %}
+  {% include education.html %}
+{% endunless %}
+
+{% include experiences.html %}
+
+<<<<<<< HEAD
+{% if site.data.data.mainbar.project %}
+  {% include projects.html %}
+{% endif %}
+
+{% if site.data.data.mainbar.publication %}
+  {% include publications.html %}
+{% endif %}
+=======
+{% include projects.html %}
+
+{% include publications.html %}
+>>>>>>> 2a97eb695b3488fa0590700d518c14fe0b16c26a
+
+{% include skills.html %}
