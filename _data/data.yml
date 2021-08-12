@@ -2,6 +2,7 @@
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 <<<<<<< HEAD
+<<<<<<< HEAD
 #show project ,publication on mainbar
 mainbar:
   project: False
@@ -75,6 +76,8 @@ education:
       university: University Kuala Lumpur
       time: 2012 - 2014
 =======
+=======
+>>>>>>> 2a97eb695b3488fa0590700d518c14fe0b16c26a
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
@@ -145,6 +148,9 @@ education:
     - degree: BSc in Applied Mathematics
       university: Bristol University
       time: 2007 - 2011
+<<<<<<< HEAD
+>>>>>>> 2a97eb695b3488fa0590700d518c14fe0b16c26a
+=======
 >>>>>>> 2a97eb695b3488fa0590700d518c14fe0b16c26a
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -155,6 +161,7 @@ education:
           - Bullet point
           - Bullet point
 experiences:
+<<<<<<< HEAD
 <<<<<<< HEAD
     - role: Japanese Speaker Software Engineer (Permanent)
       time: January 2020 - Present
@@ -195,6 +202,8 @@ experiences:
         Additionally, team members must follow all health and safety rules outlined by Pizza Hut. 
         Team members should possess strong communication and problem solving skills.
 =======
+=======
+>>>>>>> 2a97eb695b3488fa0590700d518c14fe0b16c26a
     - role: Lead Developer
       time: 2015 - Present
       company: Startup Hubs, San Francisco
@@ -232,6 +241,9 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
+<<<<<<< HEAD
+>>>>>>> 2a97eb695b3488fa0590700d518c14fe0b16c26a
+=======
 >>>>>>> 2a97eb695b3488fa0590700d518c14fe0b16c26a
 projects:
     title: Projects
@@ -287,6 +299,7 @@ skills:
 
     toolset:
 <<<<<<< HEAD
+<<<<<<< HEAD
       - name: Computer Hardware
         level: 100%
 
@@ -311,6 +324,8 @@ skills:
 footer: >
 #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
 =======
+=======
+>>>>>>> 2a97eb695b3488fa0590700d518c14fe0b16c26a
       - name: Python & Django
         level: 98%
 
@@ -331,4 +346,7 @@ footer: >
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+<<<<<<< HEAD
+>>>>>>> 2a97eb695b3488fa0590700d518c14fe0b16c26a
+=======
 >>>>>>> 2a97eb695b3488fa0590700d518c14fe0b16c26a
