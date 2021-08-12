@@ -1,18 +1,14 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> e09e126f128dddd4de8db9d86566f124e12d533c
+
 #show project ,publication on mainbar
 mainbar:
   project: False
   publication: false
 
 sidebar:
-    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
 
@@ -78,15 +74,10 @@ education:
     - degree: Bachelor in Electric and Electronics Engineering (Hons.)
       university: University Kuala Lumpur
       time: 2012 - 2014
-<<<<<<< HEAD
       details: |
           - Bullet point
           - Bullet point
 experiences:
-=======
-=======
-=======
->>>>>>> 2a97eb695b3488fa0590700d518c14fe0b16c26a
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
@@ -157,10 +148,6 @@ education:
     - degree: BSc in Applied Mathematics
       university: Bristol University
       time: 2007 - 2011
-<<<<<<< HEAD
->>>>>>> 2a97eb695b3488fa0590700d518c14fe0b16c26a
-=======
->>>>>>> 2a97eb695b3488fa0590700d518c14fe0b16c26a
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -170,9 +157,6 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> e09e126f128dddd4de8db9d86566f124e12d533c
     - role: Japanese Speaker Software Engineer (Permanent)
       time: January 2020 - Present
       company: KLCV Malaysia Sdn Bhd, Petaling Jaya, Selangor
@@ -211,54 +195,6 @@ experiences:
         portioning toppings, and cooking pizzas. All team members must maintain a clean work environment. 
         Additionally, team members must follow all health and safety rules outlined by Pizza Hut. 
         Team members should possess strong communication and problem solving skills.
-<<<<<<< HEAD
-
-=======
-=======
-=======
->>>>>>> 2a97eb695b3488fa0590700d518c14fe0b16c26a
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-<<<<<<< HEAD
->>>>>>> 2a97eb695b3488fa0590700d518c14fe0b16c26a
-=======
->>>>>>> 2a97eb695b3488fa0590700d518c14fe0b16c26a
->>>>>>> e09e126f128dddd4de8db9d86566f124e12d533c
 projects:
     title: Projects
     intro: >
@@ -312,11 +248,6 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> e09e126f128dddd4de8db9d86566f124e12d533c
       - name: Computer Hardware
         level: 100%
 
@@ -340,33 +271,3 @@ skills:
 
 footer: >
 #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
-<<<<<<< HEAD
-=======
-=======
-=======
->>>>>>> 2a97eb695b3488fa0590700d518c14fe0b16c26a
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
-<<<<<<< HEAD
->>>>>>> 2a97eb695b3488fa0590700d518c14fe0b16c26a
-=======
->>>>>>> 2a97eb695b3488fa0590700d518c14fe0b16c26a
->>>>>>> e09e126f128dddd4de8db9d86566f124e12d533c
