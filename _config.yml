@@ -1,9 +1,9 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: nooru.me/onlineCV
+title: nooru.me/resume
 url: 'https://nooru.me'
-baseurl: '/onlinecv' #change it according to your repository name
+baseurl: '/resume' #change it according to your repository name
 description: my online CV
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: green # blue turquoise green berry orange ceramic
