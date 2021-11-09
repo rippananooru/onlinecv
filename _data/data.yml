@@ -18,7 +18,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: work@nooru.me
+    email: hi@nooru.me
     phone: +6011 6961 6961
     website: nooru.me #do not add http://
     linkedin: rippananooru
@@ -78,34 +78,34 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Japanese Speaker Software Engineer (Permanent)
+    - role: Software Engineer,Japanese Speaker - (Permanent)
       time: January 2020 - Present
       company: KLCV Malaysia Sdn Bhd, Petaling Jaya, Selangor
       details: |
-        Customization and creation of new functions on an in-house build system 
-        called Creative Vision.<br>
+        IT Programmer (Japanese Speaker) <br>
+        Customization and creation of new functions on an in-house build system called Creative Vision.<br>
         Languages:
           - C#, .NET, Oracle DB.
-    - role: IT Executive, Project Leader (Permanent)
+    - role: IT Executive, Project Leader,Japanese Speaker - (Permanent)
       time: July 2018 - December 2019
       company: Taisei Lamick Malaysia Sdn Bhd, Kajang, Selangor
       details: |
-        Overall internal IT support. Handle all IT related activities to ensure IT operation run smoothly. 
-        Perform daily support/operation on installation, maintenance, 
-        troubleshooting of hardware/software, system application, PC, Servers, network infrastructure etc. 
-        Dealing and coordinating with IT vendors. Provide Training to end user. 
-
-        Create a few application using Microsoft’s PowerApps such as room booking, IT equipment booking, 
-        car reservation system, inventory management system and last but not least ticket system using 
-        SharePoint as the database.
-    - role: Technical Helpdesk Associate (Permanent)
+        IT Admin (Japanese speaker) <br>
+        Supporting overall IT operation for the company. <br>
+        HQ from Japan requested to install system developed by Japanese company and need IT Admin with Japanese language to ensure the system application run smoothly.<br>
+        Introduce and developed in-house software system using Microsoft's PowerApps to improve company operation and reduce paper works. <br>
+        Create a few application using Microsoft’s PowerApps such as room booking, IT equipment booking, car reservation system, inventory management system and last but not least ticket system using SharePoint as the database.
+        <br><br>
+        Project leader on "Business Improvement Project" <br>
+        To improve the manufacturing process and another related business process using the newly developed system. Involved all departments in the company.
+    - role: Technical Helpdesk Associate, Japanese Speaker (Permanent)
       time: April 2017 - July 2018
       company: Emerio (Malaysia) Sdn Bhd, Cyberjaya, Selangor
       details: |
-        Troubleshoot research, diagnose, document, and resolve technical issues surrounding internal IT, 
-        Applications, email, other special applications, Internet connections, 
-        and hardware/peripheral equipment via telephone or remote desktop. Document, track, resolve,
-        and report on problems and work orders using ticketing system.
+        IT Helpdesk Level 1 (Japanese Speaker) <br>
+        Supporting NTT communications Japan's employees through the ticket system.
+        Main on troubleshooting computer hardware problems and system support.
+        Supporting through email, phone, and remote desktop using Japanese language only
     - role: Part-time Crew
       time: February 2012 - April 2012
       company: Pizza Hut Malaysia, Batu Pahat, Johor
