@@ -78,14 +78,21 @@ education:
           - Bullet point
           - Bullet point
 experiences:
+    - role: Front End Developer (Japanese Speaker)
+      time: May 2022 - Present
+      company: TDCX
+      details: |
+      Technical Specialist team for Japan market
+      Skills: JavaScript - Google Tag Manger - Google Ads - Google Analytics - Japanese Language
+
     - role: Software Engineer,Japanese Speaker - (Permanent)
-      time: January 2020 - Present
+      time: January 2020 - Mac 2022
       company: KLCV Malaysia Sdn Bhd, Petaling Jaya, Selangor
       details: |
         IT Programmer (Japanese Speaker) <br>
-        Customization and creation of new functions on an in-house build system called Creative Vision.<br>
-        Languages:
-          - C#, .NET, Oracle DB.
+        Customisation and creation of new function on in-house build system called Creative Vision.
+        Proposed new project such as Online Manual for the company's product. So that user can search immediately and access through the internet.
+        Skills: .NET - Oracle DB - Git - Wordpress - Jekyll ( Static Site Generator )
     - role: IT Executive, Project Leader,Japanese Speaker - (Permanent)
       time: July 2018 - December 2019
       company: Taisei Lamick Malaysia Sdn Bhd, Kajang, Selangor
@@ -98,6 +105,7 @@ experiences:
         <br><br>
         Project leader on "Business Improvement Project" <br>
         To improve the manufacturing process and another related business process using the newly developed system. Involved all departments in the company.
+        Skills: Server Admin - Domain Admin - Oracle ERP ( JD Edwards ) - Microsoft Power Apps - Office 365 Admin - Computer hardware/software troubleshooting and installation
     - role: Technical Helpdesk Associate, Japanese Speaker (Permanent)
       time: April 2017 - July 2018
       company: Emerio (Malaysia) Sdn Bhd, Cyberjaya, Selangor
@@ -106,16 +114,17 @@ experiences:
         Supporting NTT communications Japan's employees through the ticket system.
         Main on troubleshooting computer hardware problems and system support.
         Supporting through email, phone, and remote desktop using Japanese language only
-    - role: Part-time Crew
-      time: February 2012 - April 2012
-      company: Pizza Hut Malaysia, Batu Pahat, Johor
-      details: |
-        Pizza Hut team members mostly serve customers or prepare food in kitchen. 
-        Customer Service duties include taking orders, answering questions, 
-        and ringing out customers on the cash register. Kitchen duties include preparing dough, 
-        portioning toppings, and cooking pizzas. All team members must maintain a clean work environment. 
-        Additionally, team members must follow all health and safety rules outlined by Pizza Hut. 
-        Team members should possess strong communication and problem solving skills.
+        Skills : Japanese Business Culture - Computer Hardware troubleshooting - Computer Software troubleshooting - Microsoft Sharepoint - Active Directory
+    #- role: Part-time Crew
+    #  time: February 2012 - April 2012
+    #  company: Pizza Hut Malaysia, Batu Pahat, Johor
+    #  details: |
+    #    Pizza Hut team members mostly serve customers or prepare food in kitchen. 
+    #    Customer Service duties include taking orders, answering questions, 
+    #    and ringing out customers on the cash register. Kitchen duties include preparing dough, 
+    #    portioning toppings, and cooking pizzas. All team members must maintain a clean work environment. 
+    #    Additionally, team members must follow all health and safety rules outlined by Pizza Hut. 
+    #    Team members should possess strong communication and problem solving skills.
 projects:
     title: Projects
     intro: >
@@ -181,14 +190,15 @@ skills:
       - name: Computer Networking
         level: 80%
 
-      - name: HTML5 & CSS
+      - name: HTML5, CSS & JavaScript
         level: 60%
 
-      - name: C#
+      - name: C#, dotNET
         level: 60%
 
       - name: Oracle DB, SQL
         level: 60%
 
 footer: >
+nooru.me
 #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
